@@ -1,0 +1,7 @@
+1. In the northern hemisphere, as latitude goes up, max temperature goes down.
+
+2. In the southern hemisphere, as latitude goes down, humidity goes down.
+
+3. In the southern hemisphere, as latitude goes down, wind speed goes up.
+
+The above observation was made during 1/3/2020
