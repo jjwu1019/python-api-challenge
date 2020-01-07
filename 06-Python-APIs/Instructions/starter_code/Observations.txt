@@ -5,3 +5,5 @@
 3. In the southern hemisphere, as latitude goes down, wind speed goes up.
 
 The above observation was made during 1/3/2020
+
+My output is in the Output folder
